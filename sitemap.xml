@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coxinhas-mn.netlify.app/</loc>
     <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://coxinhas-mn.netlify.app/pagina-1.html</loc>
+    <loc>https://tafofu.netlify.app/pagina-1.html</loc>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://muitonosso.netlify.app/pagina-2.html</loc>
+    <loc>https://tafofu.netlify.app/pagina-2.html</loc>
     <priority>0.8</priority>
   </url>
-
+  <url>
+    <loc>https://tafofu.netlify.app/pagina-3.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tafofu.netlify.app/pagina-4.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tafofu.netlify.app/pagina-5.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
