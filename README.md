@@ -1,0 +1,1 @@
+https://search.google.com/search-console/core-web-vitals?resource_id=https%3A%2F%2Fcoxinhas-mn.netlify.app%2F
